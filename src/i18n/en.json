@@ -1,0 +1,8 @@
+{
+  "app.title": "Carvago Frontend Assignment",
+  "app.description": "Assignment in React.js for developers who want to join our team.",
+  "app.todo": "To Do list",
+  "app.author": "Vojtech Benes",
+  "app.today": "Today",
+  "app.sectionTitle": "Section title"
+}
